@@ -4,11 +4,11 @@
  <img alt="octocat" src="https://github.com/flaviafigueredo/flaviafigueredo/assets/101154714/4d4ee52f-ab17-4cdb-bfb8-e5b4411ce815" height="400" width="400" align="right"/>
  
  <p>
-  Sou uma apaixonada por tecnologia em busca constante de evolução. <br> Embora tenha começado minha jornada acadêmica na Produção Audiovisual, a programação sempre foi minha verdadeira paixão.
+  Sou uma apaixonada por tecnologia em busca constante de evolução. Embora tenha começado minha jornada acadêmica na Produção Audiovisual, a programação sempre foi minha verdadeira paixão.
   
   Recentemente, concluí uma <strong>pós-graduação em Desenvolvimento FullStack</strong>, e atualmente estou me aventurando em uma <strong>pós-graduação em Engenharia de Software</strong> para aprimorar ainda mais minhas habilidades. Além disso, estou nos momentos finais de um curso de <strong>Desenvolvimento Web FrontEnd</strong>, focado em <strong>HTML, CSS, JavaScript e React</strong>.
   
-  Como desenvolvedora FrontEnd, meu objetivo é criar experiências de usuário incríveis e interfaces web visualmente atraentes. No curto prazo, estou mirando <br> em uma posição como desenvolvedora FrontEnd, mas no longo prazo, desejo evoluir para uma posição de desenvolvedora FullStack!
+  Como desenvolvedora FrontEnd, meu objetivo é criar experiências de usuário incríveis e interfaces web visualmente atraentes. No curto prazo, estou mirando em uma posição como desenvolvedora FrontEnd, mas no longo prazo, desejo evoluir para uma posição de desenvolvedora FullStack!
   
   Fora do mundo do código, você me encontrará desfrutando de uma xícara de café, passeando com meu cachorro ou mergulhando em boas leituras e séries de TV.
  </p>
