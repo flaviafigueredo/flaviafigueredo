@@ -1,7 +1,7 @@
 # Olá, eu sou a Flávia Figueredo!
 
 <div>
- <img alt="octocat" src="https://github.com/flaviafigueredo/flaviafigueredo/assets/101154714/4d4ee52f-ab17-4cdb-bfb8-e5b4411ce815" height="400" width="400" align="right"/>
+ <img alt="octocat" src="https://github.com/user-attachments/assets/55e26d3e-a9cf-402b-a40d-6c7ca1509bc9" height="400" width="400" align="right"/>
 
  <div>
   <ul>
