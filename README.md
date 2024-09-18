@@ -32,6 +32,16 @@
 
 <br>
 
+### Aprendendo atualmente
+
+<div style="display: inline-block">
+  <img height="30" src="https://img.shields.io/badge/Jest-a200ff?style=for-the-badge&logo=jest&logoColor=f0f0f0" />
+  <img height="30" src="https://img.shields.io/badge/Redux-a200ff?style=for-the-badge&logo=redux&logoColor=f0f0f0" />
+  <img height="30" src="https://img.shields.io/badge/TypeScript-a200ff?style=for-the-badge&logo=typescript&logoColor=f0f0f0" />
+  <img height="30" src="https://img.shields.io/badge/next%20js-a200ff?style=for-the-badge&logo=nextdotjs&logoColor=f0f0f0" />
+</div>
+
+
 ### Me encontre
 
 <div>
