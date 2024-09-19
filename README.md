@@ -41,6 +41,7 @@
   <img height="30" src="https://img.shields.io/badge/next%20js-a200ff?style=for-the-badge&logo=nextdotjs&logoColor=f0f0f0" />
 </div>
 
+<br>
 
 ### Me encontre
 
