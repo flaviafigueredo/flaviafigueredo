@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="421" height="30" viewBox="0 0 421 30" role="img" aria-label="Pós-graduada em Desenvolvimento Full Stack">
+  <title>Pós-graduada em Desenvolvimento Full Stack</title>
+  <rect x="0.75" y="0.75" width="419.5" height="28.5" rx="4" fill="none" stroke="#a200ff" stroke-width="1.5"/>
+  <g transform="translate(12,8.0)" fill="none" stroke="#a200ff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><polygon points="7,2.5 13.5,5.5 7,8.5 0.5,5.5"/><path d="M3.5 7v3c1 1.1 2.2 1.6 3.5 1.6s2.5-.5 3.5-1.6V7"/><line x1="13.5" y1="5.5" x2="13.5" y2="9.5"/></g>
+  <text x="34" y="19" fill="#a200ff" font-family="Verdana,'DejaVu Sans',Geneva,sans-serif" font-size="11" font-weight="700" textLength="374.5" lengthAdjust="spacing">PÓS-GRADUADA EM DESENVOLVIMENTO FULL STACK</text>
+</svg>

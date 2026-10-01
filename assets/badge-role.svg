@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="264" height="30" viewBox="0 0 264 30" role="img" aria-label="Desenvolvedora Front-End">
+  <title>Desenvolvedora Front-End</title>
+  <rect x="0.75" y="0.75" width="262.5" height="28.5" rx="4" fill="none" stroke="#a200ff" stroke-width="1.5"/>
+  <g transform="translate(12,8.0)" fill="none" stroke="#a200ff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><polyline points="4.5,3 1,7 4.5,11"/><polyline points="9.5,3 13,7 9.5,11"/><line x1="8" y1="2" x2="6" y2="12"/></g>
+  <text x="34" y="19" fill="#a200ff" font-family="Verdana,'DejaVu Sans',Geneva,sans-serif" font-size="11" font-weight="700" textLength="218.2" lengthAdjust="spacing">DESENVOLVEDORA FRONT-END</text>
+</svg>

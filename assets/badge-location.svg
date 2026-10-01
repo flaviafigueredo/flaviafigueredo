@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="188" height="30" viewBox="0 0 188 30" role="img" aria-label="Porto Alegre - RS">
+  <title>Porto Alegre - RS</title>
+  <rect x="0.75" y="0.75" width="186.5" height="28.5" rx="4" fill="none" stroke="#a200ff" stroke-width="1.5"/>
+  <g transform="translate(12,8.0)" fill="none" stroke="#a200ff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M7 13s-4.5-4.6-4.5-7.8a4.5 4.5 0 0 1 9 0C11.5 8.4 7 13 7 13z"/><circle cx="7" cy="5.2" r="1.6"/></g>
+  <text x="34" y="19" fill="#a200ff" font-family="Verdana,'DejaVu Sans',Geneva,sans-serif" font-size="11" font-weight="700" textLength="141.9" lengthAdjust="spacing">PORTO ALEGRE - RS</text>
+</svg>
