@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="568" height="48" viewBox="0 0 568 48" role="img" aria-label="Olá, eu sou a Flávia Figueredo!">
+  <title>Olá, eu sou a Flávia Figueredo!</title>
+  <defs>
+    <clipPath id="typed">
+      <rect x="2" y="0" width="0" height="48">
+        <animate attributeName="width" values="0;18;36;54;72;90;108;126;144;162;180;198;216;234;252;270;288;306;324;342;360;378;396;414;432;450;468;486;504;522;540;558" calcMode="discrete" begin="0.4s" dur="2.48s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <text x="2" y="34" clip-path="url(#typed)" fill="#a200ff" font-family="SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="30" font-weight="700" textLength="558" lengthAdjust="spacingAndGlyphs">Olá, eu sou a Flávia Figueredo!</text>
+  <rect x="3" y="9" width="3" height="32" fill="#a200ff">
+    <animate attributeName="x" values="3;21;39;57;75;93;111;129;147;165;183;201;219;237;255;273;291;309;327;345;363;381;399;417;435;453;471;489;507;525;543;561" calcMode="discrete" begin="0.4s" dur="2.48s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0" calcMode="discrete" begin="2.88s" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
