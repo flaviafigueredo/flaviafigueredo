@@ -1,44 +1,63 @@
 # Olá, eu sou a Flávia Figueredo!
 
 <div>
+ <p>
+   <img height="30" alt="Desenvolvedora Front-End" src="assets/badge-role.svg" />
+   <img height="30" alt="Porto Alegre - RS" src="assets/badge-location.svg" />
+   <img height="30" alt="Pós-graduada em Engenharia de Software" src="assets/badge-software-engineering.svg" />
+   <img height="30" alt="Pós-graduada em Desenvolvimento Full Stack" src="assets/badge-full-stack.svg" />
+   <img height="30" alt="Graduada em Produção Audiovisual" src="assets/badge-audiovisual.svg" />
+ </p>
+
  <img alt="octocat" src="https://github.com/user-attachments/assets/55e26d3e-a9cf-402b-a40d-6c7ca1509bc9" height="400" width="400" align="right"/>
 
  <div>
-  <ul>
-     <li>Desenvolvedora Front-End Júnior</li>
-     <li>Porto Alegre - RS</li>
-     <li>Pós-graduada em Engenharia de Software</li>
-     <li>Pós-graduada em Desenvolvimento Full Stack</li>
-     <li>Graduada em Produção Audiovisual</li>
-  </ul>
-
   <p>
-    Minha jornada como desenvolvedora Front-End começou com o desejo de transformar ideias em produtos reais que facilitam a vida das pessoas. Acredito que a tecnologia, 
-    além de funcional, pode ser acessível e simples de usar. Adoro mergulhar em novos desafios, e o processo de aprendizado contínuo é o que me move.
+    Sou desenvolvedora Front-End e gosto de criar soluções digitais que unem performance e inteligência de dados.
+    No dia a dia, construo interfaces rápidas e responsivas com Vue.js, JavaScript e Jekyll, mas meu trabalho não para na tela:
+    também estruturo o caminho da informação, criando automações com n8n e webhooks, integrando CRMs e gateways de pagamento
+    e montando dashboards no Metabase e no Looker Studio. Tenho perfil mão na massa e gosto de usar a tecnologia para simplificar processos.
   </p>
  </div>
 </div>
 
 ### Tecnologias e ferramentas
 
+#### Front-End
+
 <div style="display: inline-block">
   <img height="30" src="https://img.shields.io/badge/React-a200ff?style=for-the-badge&logo=react&logoColor=f0f0f0" />
+  <img height="30" src="https://img.shields.io/badge/Vue.js-a200ff?style=for-the-badge&logo=vuedotjs&logoColor=f0f0f0" />
+  <img height="30" src="https://img.shields.io/badge/next%20js-a200ff?style=for-the-badge&logo=nextdotjs&logoColor=f0f0f0" />
+  <img height="30" src="https://img.shields.io/badge/TypeScript-a200ff?style=for-the-badge&logo=typescript&logoColor=f0f0f0" />
   <img height="30" src="https://img.shields.io/badge/JavaScript-a200ff?style=for-the-badge&logo=javascript&logoColor=f0f0f0" />
-  <img height="30" src="https://img.shields.io/badge/CSS3-a200ff?style=for-the-badge&logo=css3&logoColor=f0f0f0" />
   <img height="30" src="https://img.shields.io/badge/HTML5-a200ff?style=for-the-badge&logo=html5&logoColor=f0f0f0" />
-  <img height="30" src="https://img.shields.io/badge/GIT-a200ff?style=for-the-badge&logo=git&logoColor=f0f0f0" />
-  <img height="30" src="https://img.shields.io/badge/VSCode-a200ff?style=for-the-badge&logo=visual%20studio%20code&logoColor=f0f0f0" />
+  <img height="30" src="https://img.shields.io/badge/CSS3-a200ff?style=for-the-badge&logo=css&logoColor=f0f0f0" />
+  <img height="30" src="https://img.shields.io/badge/Sass-a200ff?style=for-the-badge&logo=sass&logoColor=f0f0f0" />
+  <img height="30" src="https://img.shields.io/badge/Jekyll-a200ff?style=for-the-badge&logo=jekyll&logoColor=f0f0f0" />
+  <img height="30" src="https://img.shields.io/badge/Liquid-a200ff?style=for-the-badge&logo=shopify&logoColor=f0f0f0" />
+  <img height="30" src="https://img.shields.io/badge/Redux-a200ff?style=for-the-badge&logo=redux&logoColor=f0f0f0" />
+  <img height="30" src="https://img.shields.io/badge/Jest-a200ff?style=for-the-badge&logo=jest&logoColor=f0f0f0" />
 </div>
 
-<br>
-
-### Aprendendo atualmente
+#### Dados e automação
 
 <div style="display: inline-block">
-  <img height="30" src="https://img.shields.io/badge/Jest-a200ff?style=for-the-badge&logo=jest&logoColor=f0f0f0" />
-  <img height="30" src="https://img.shields.io/badge/Redux-a200ff?style=for-the-badge&logo=redux&logoColor=f0f0f0" />
-  <img height="30" src="https://img.shields.io/badge/TypeScript-a200ff?style=for-the-badge&logo=typescript&logoColor=f0f0f0" />
-  <img height="30" src="https://img.shields.io/badge/next%20js-a200ff?style=for-the-badge&logo=nextdotjs&logoColor=f0f0f0" />
+  <img height="30" src="https://img.shields.io/badge/n8n-a200ff?style=for-the-badge&logo=n8n&logoColor=f0f0f0" />
+  <img height="30" src="https://img.shields.io/badge/Firebase-a200ff?style=for-the-badge&logo=firebase&logoColor=f0f0f0" />
+  <img height="30" src="https://img.shields.io/badge/Google%20Analytics-a200ff?style=for-the-badge&logo=googleanalytics&logoColor=f0f0f0" />
+  <img height="30" src="https://img.shields.io/badge/Google%20Tag%20Manager-a200ff?style=for-the-badge&logo=googletagmanager&logoColor=f0f0f0" />
+  <img height="30" src="https://img.shields.io/badge/BigQuery-a200ff?style=for-the-badge&logo=googlebigquery&logoColor=f0f0f0" />
+  <img height="30" src="https://img.shields.io/badge/Metabase-a200ff?style=for-the-badge&logo=metabase&logoColor=f0f0f0" />
+  <img height="30" src="https://img.shields.io/badge/Looker%20Studio-a200ff?style=for-the-badge&logo=looker&logoColor=f0f0f0" />
+</div>
+
+#### Ferramentas
+
+<div style="display: inline-block">
+  <img height="30" src="https://img.shields.io/badge/GIT-a200ff?style=for-the-badge&logo=git&logoColor=f0f0f0" />
+  <img height="30" src="https://img.shields.io/badge/GitHub-a200ff?style=for-the-badge&logo=github&logoColor=f0f0f0" />
+  <img height="30" src="https://img.shields.io/badge/VSCode-a200ff?style=for-the-badge" />
 </div>
 
 <br>
