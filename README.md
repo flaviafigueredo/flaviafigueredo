@@ -1,4 +1,6 @@
-# Olá, eu sou a Flávia Figueredo!
+<h1>
+  <img height="48" alt="Olá, eu sou a Flávia Figueredo!" src="assets/typing-title.svg" />
+</h1>
 
 <div>
  <p>
@@ -67,7 +69,6 @@
 <div>
   <a href="https://flaviafigueredo.github.io/portfolio/" target="_blank"><img height="30" src="https://img.shields.io/badge/Portfolio-a200ff?style=for-the-badge&logo=About.me&logoColor=f3f3f3" target="_blank"></a>
   <a href="https://www.linkedin.com/in/flaviafigueredo/" target="_blank"><img height="30" src="https://img.shields.io/badge/LinkedIn-a200ff?style=for-the-badge&logo=linkedin&logoColor=f3f3f3" target="_blank"></a>
-  <a href = "mailto:flaviagfigueredo@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-a200ff?style=for-the-badge&logo=gmail&logoColor=f3f3f3" target="_blank"></a>
   <a href="https://instagram.com/flaviafigueredo" target="_blank"><img height="30" src="https://img.shields.io/badge/Instagram-a200ff?style=for-the-badge&logo=instagram&logoColor=f3f3f3" target="_blank"></a>  
 </div>
 
