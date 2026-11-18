@@ -15,10 +15,8 @@
 
  <div>
   <p>
-    Sou desenvolvedora Front-End e gosto de criar soluções digitais que unem performance e inteligência de dados.
-    No dia a dia, construo interfaces rápidas e responsivas com Vue.js, JavaScript e Jekyll, mas meu trabalho não para na tela:
-    também estruturo o caminho da informação, criando automações com n8n e webhooks, integrando CRMs e gateways de pagamento
-    e montando dashboards no Metabase e no Looker Studio. Tenho perfil mão na massa e gosto de usar a tecnologia para simplificar processos.
+    Sou desenvolvedora front-end e faço páginas do layout ao código, sem depender de designer, com foco em acessibilidade, performance e conversão. Trabalho com Vue.js, React, Next.js, JavaScript e Jekyll.
+    Meu trabalho não para na tela. Também crio automações com n8n, webhooks e APIs, uso IA generativa nos fluxos sempre com revisão humana e cuido de rastreamento e métricas com GA4, Google Tag Manager e Metabase. Tenho perfil mão na massa e gosto de usar a tecnologia para simplificar processos.
   </p>
  </div>
 </div>
